@@ -85,7 +85,7 @@ To handle concurrent usage by multiple team members:
 
 If you find this helpful, consider supporting me:
 
-- **Sponsor Me:** [Buy Me a Coffee!](https://github.com/sponsors/TuShArBhArDwA)
+- **Support:** [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon)
 
 ---
 
@@ -97,9 +97,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
+- **Connect:** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
+- **Tushar Bhardwaj** - [Portfolio](https://minianon.in/)
 - **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
-- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
+- **GitHub:** [minianon](https://github.com/minianon)
 - **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
 - **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
